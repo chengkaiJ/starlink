@@ -1,4 +1,4 @@
-# WhatsNew
-  A project to get myself familiar with the techniques and tools in android app development.
+# starLink
+  A project to get myself familiar with the techniques and tools in front engineering.
 
-  Techniques and tools involved: **MVVM** pattern, **JetPack**, **CardStackView**, **Retrofit**.
+  Techniques and tools involved: **React.js, D3, AWS**
